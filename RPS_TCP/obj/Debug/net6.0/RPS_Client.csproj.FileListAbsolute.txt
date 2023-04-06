@@ -1,0 +1,15 @@
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\bin\Debug\net6.0\RPS_Client.exe
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\bin\Debug\net6.0\RPS_Client.deps.json
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\bin\Debug\net6.0\RPS_Client.runtimeconfig.json
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\bin\Debug\net6.0\RPS_Client.dll
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\bin\Debug\net6.0\RPS_Client.pdb
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\RPS_Client.csproj.AssemblyReference.cache
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\RPS_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\RPS_Client.AssemblyInfoInputs.cache
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\RPS_Client.AssemblyInfo.cs
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\RPS_Client.csproj.CoreCompileInputs.cache
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\RPS_Client.dll
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\refint\RPS_Client.dll
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\RPS_Client.pdb
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\RPS_Client.genruntimeconfig.cache
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_TCP\obj\Debug\net6.0\ref\RPS_Client.dll

@@ -1,0 +1,15 @@
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\bin\Debug\net6.0\RPS_Listener.exe
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\bin\Debug\net6.0\RPS_Listener.deps.json
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\bin\Debug\net6.0\RPS_Listener.runtimeconfig.json
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\bin\Debug\net6.0\RPS_Listener.dll
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\bin\Debug\net6.0\RPS_Listener.pdb
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\RPS_Listener.csproj.AssemblyReference.cache
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\RPS_Listener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\RPS_Listener.AssemblyInfoInputs.cache
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\RPS_Listener.AssemblyInfo.cs
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\RPS_Listener.csproj.CoreCompileInputs.cache
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\RPS_Listener.dll
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\refint\RPS_Listener.dll
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\RPS_Listener.pdb
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\RPS_Listener.genruntimeconfig.cache
+C:\Users\f3xz1\source\repos\RPS_TCP\RPS_Listener\obj\Debug\net6.0\ref\RPS_Listener.dll
